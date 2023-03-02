@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhyunee&show_icons=true&theme=radical)
+![header](https://capsule-render.vercel.app/api?type=wave&color=8A2BE2&height=300&section=header&text=WELCOME&fontSize=70&fontAlignY=40)
 <br/>
 
 
