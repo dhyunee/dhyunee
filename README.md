@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=300&section=header&text=WELCOME&animation=twinkling&fontSize=70&fontAlignY=40)
-<br/>
+![header](https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=250&section=header&text=WELCOME&animation=twinkling&fontSize=70&fontAlignY=40)
+
 
 
  <h3> 𝐒𝐤𝐢𝐥𝐥 ⚡ <h3>
