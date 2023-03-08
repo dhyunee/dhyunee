@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=wave&color=8A2BE2&height=300&section=header&text=WELCOME&fontSize=70&fontAlignY=40)
 <br/>
 
-
+[![SONGB's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhyunee&hide=stars&show_icons=true&&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
  <h3> 𝐒𝐤𝐢𝐥𝐥 <h3>
  
  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
