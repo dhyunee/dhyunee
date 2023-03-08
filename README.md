@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=8A2BE2&height=300&section=header&text=WELCOME&fontSize=70&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=300&section=header&text=WELCOME&animation=twinkling&fontSize=70&fontAlignY=40)
 <br/>
 
-[![SONGB's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhyunee&hide=stars&show_icons=true&&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
- <h3> 𝐒𝐤𝐢𝐥𝐥 <h3>
+
+ <h3> 𝐒𝐤𝐢𝐥𝐥 ⚡ <h3>
  
- <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
+ <img src="https://img.shields.io/badge/Java-FF8282?style=flat-square&logo=Java&logoColor=white"/></a>
  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
  <br/>
@@ -33,3 +33,5 @@ Here are some ideas to get you started:
 
  [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlthdqls)](https://solved.ac/rlthdqls)
+
+[![SONGB's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhyunee&hide=stars&show_icons=true&&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
