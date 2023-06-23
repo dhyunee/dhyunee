@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=250&section=header&text=WELCOME&animation=twinkling&fontSize=70&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=250&section=header&text=위풍당당&nbsp;김앙주의&nbsp;개발자로&nbsp;거듭나기&animation=twinkling&fontSize=25&fontAlignY=40)
 
 
 
