@@ -32,6 +32,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/db2-47A248?style=flat-square&logo=db2&logoColor=white"/></a>
 <br/>
 <br/>
 <br/>
